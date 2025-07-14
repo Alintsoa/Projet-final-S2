@@ -1,0 +1,25 @@
+
+body {
+    background-color: #042006;
+}
+
+table {
+    background-color: rgb(118, 145, 125);
+}
+
+img {
+    border-radius: 8px;
+}
+
+h2 {
+    color: #325a47;
+}
+
+form input, form select {
+    margin-bottom: 10px;
+}
+
+label 
+{
+    color: #fbfbfb;
+}
